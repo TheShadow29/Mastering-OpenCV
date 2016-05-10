@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/arktheshadow/ARK-Linux/Programming/Linux_opencv/Mastering-OpenCV/ch1_cartoonify/cartoon.cpp
+opencv2/opencv.hpp
+/home/arktheshadow/ARK-Linux/Programming/Linux_opencv/Mastering-OpenCV/ch1_cartoonify/opencv2/opencv.hpp
+
+/home/arktheshadow/ARK-Linux/Programming/Linux_opencv/Mastering-OpenCV/ch1_cartoonify/main_cartoon.cpp
+cartoon.cpp
+/home/arktheshadow/ARK-Linux/Programming/Linux_opencv/Mastering-OpenCV/ch1_cartoonify/cartoon.cpp
+

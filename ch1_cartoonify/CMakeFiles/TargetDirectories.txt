@@ -1,0 +1,3 @@
+/home/arktheshadow/ARK-Linux/Programming/Linux_opencv/Mastering-OpenCV/ch1_cartoonify/CMakeFiles/edit_cache.dir
+/home/arktheshadow/ARK-Linux/Programming/Linux_opencv/Mastering-OpenCV/ch1_cartoonify/CMakeFiles/rebuild_cache.dir
+/home/arktheshadow/ARK-Linux/Programming/Linux_opencv/Mastering-OpenCV/ch1_cartoonify/CMakeFiles/Cartoonify.dir
